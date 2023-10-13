@@ -1,0 +1,33 @@
+.Edit_Save {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 50%;
+  cursor: pointer;
+  width: 2rem;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+}
+
+.Delete_Cancel {
+  background-color: #f44336; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 50%;
+  cursor: pointer;
+  width: 2rem;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+}
